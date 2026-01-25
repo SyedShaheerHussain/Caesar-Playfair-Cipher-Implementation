@@ -119,7 +119,7 @@ The GUI window will open automatically.
 
 ## 👨‍💻 Author
 
-Developed as an educational cryptography project using Python. (© Syed Shaheer Hussain)
+Developed as an educational cryptography project using Python. (**© Syed Shaheer Hussain**)
 
 ## 📜 License
 > [!NOTE]
