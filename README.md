@@ -1,13 +1,13 @@
 # Caesar-Playfair-Cipher-Implementation
+
 This project is a Python-based GUI cryptography tool that implements Caesar and Playfair ciphers. It allows users to encrypt and decrypt messages through an interactive, user-friendly interface while demonstrating core classical cryptography concepts in a practical and educational way.
+
 # Caesar & Playfair Cipher GUI Tool
 
 ## 📌 Project Overview
 This project is a Python-based graphical cryptography application that demonstrates **classical encryption and decryption techniques** using **Caesar Cipher** and **Playfair Cipher**. The tool is designed for beginners to intermediate learners to understand how classical ciphers work through a **clean, interactive, and user-friendly GUI**. Users can easily encrypt and decrypt messages while visually interacting with the cryptographic process.
 
 The application focuses on **functionality, usability, and educational value**, making it suitable for academic projects, cybersecurity basics, and cryptography learning.
-
----
 
 ## 🎯 Features
 - Fully functional **Caesar Cipher** encryption and decryption
@@ -19,17 +19,10 @@ The application focuses on **functionality, usability, and educational value**, 
 - Responsive and beginner-friendly UI/UX
 - Clean separation of cryptography logic and GUI code
 
----
-
 ## 🛠️ Technologies Used
 - **Python 3.x**
 - **Tkinter / CustomTkinter** (for GUI)
 - Standard Python libraries only (no external dependencies required)
-
----
-
-
----
 
 ## ⚙️ How the Application Works
 
@@ -50,77 +43,85 @@ The application focuses on **functionality, usability, and educational value**, 
   - Rectangle rule
 - Output is displayed with correct formatting
 
----
-
 ## ▶️ How to Run the Project
 
 ### Step 1: Install Python
+
 Ensure Python 3.x is installed on your system.
 
 Check version:
-```bash
+```
 python --version
 
-Step 2: Clone or Download the Project
-git clone https://github.com/yourusername/caesar-playfair-cipher.git
+```
+### Step 2: Clone or Download the Project
+```
+git clone https://github.com/SyedShaheerHussain/Caesar-Playfair-Cipher-Implementation-GUI-.git
 OR download the ZIP and extract it.
 
-Step 3: Navigate to Project Directory
-cd caesar-playfair-cipher
+```
+### Step 3: Navigate to Project Directory
 
-Step 4: Run the Application
+```
+cd Caesar & Playfair Cipher Implementation
+
+```
+### Step 4: Run the Application
+```
 python main.py
+
+```
 
 The GUI window will open automatically.
 
-🖥️ GUI Usage Instructions
+## 🖥️ GUI Usage Instructions
 
-Launch the application
+1. Launch the application
 
-Select Caesar Cipher or Playfair Cipher
+2. Select Caesar Cipher or Playfair Cipher
 
-Enter the required inputs (message, key/shift)
+3. Enter the required inputs (message, key/shift)
 
-Click Encrypt or Decrypt
+4. Click Encrypt or Decrypt
 
-View and copy the result from the output box
+5. View and copy the result from the output box
 
-🚫 Input Validation & Error Handling
+## 🚫 Input Validation & Error Handling
 
-Empty inputs are not allowed
+1. Empty inputs are not allowed
 
-Shift key accepts only numeric values
+2. Shift key accepts only numeric values
 
-Playfair key automatically removes duplicates
+3. Playfair key automatically removes duplicates
 
-Friendly error messages guide the user
+4. Friendly error messages guide the user
 
-📚 Educational Value
+## 📚 Educational Value
 
-This project helps users:
+*This project helps users:*
 
-Understand classical cryptography concepts
+1. Understand classical cryptography concepts
 
-Learn encryption vs decryption logic
+2. Learn encryption vs decryption logic
 
-Practice Python GUI development
+3. Practice Python GUI development
 
-Apply algorithmic thinking in real-world scenarios
+4. Apply algorithmic thinking in real-world scenarios
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
-Add more classical ciphers (Vigenère, Rail Fence)
+* Add more classical ciphers (Vigenère, Rail Fence)
 
-Dark mode UI
+* Dark mode UI
 
-Export encrypted text to file
+* Export encrypted text to file
 
-Visual Playfair matrix display
+* Visual Playfair matrix display
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Developed as an educational cryptography project using Python.
+Developed as an educational cryptography project using Python. (© Syed Shaheer Hussain)
 
-📜 License
-
-This project is open-source and free to use for educational purposes.
+## 📜 License
+> [!NOTE]
+> This project is open-source and free to use for educational purposes.
