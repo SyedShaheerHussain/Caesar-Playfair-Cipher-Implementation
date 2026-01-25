@@ -2,8 +2,6 @@
 
 This project is a Python-based GUI cryptography tool that implements Caesar and Playfair ciphers. It allows users to encrypt and decrypt messages through an interactive, user-friendly interface while demonstrating core classical cryptography concepts in a practical and educational way.
 
-# Caesar & Playfair Cipher GUI Tool
-
 ## 📌 Project Overview
 This project is a Python-based graphical cryptography application that demonstrates **classical encryption and decryption techniques** using **Caesar Cipher** and **Playfair Cipher**. The tool is designed for beginners to intermediate learners to understand how classical ciphers work through a **clean, interactive, and user-friendly GUI**. Users can easily encrypt and decrypt messages while visually interacting with the cryptographic process.
 
